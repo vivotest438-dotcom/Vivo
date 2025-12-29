@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Lumina Creative Studio",
+  "description": "An all-in-one AI creative hub for visionaries, featuring advanced text generation, image synthesis, and real-time voice interaction powered by Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
